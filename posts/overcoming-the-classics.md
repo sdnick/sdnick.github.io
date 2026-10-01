@@ -5,7 +5,6 @@ author: Nicholas Souza
 publication: TBH Press
 date: 2026-06-26
 source: https://tbhpress.substack.com/p/overcoming-the-classics
-profile: cipher
 ---
 
 *Summer is here, friends. I’ve returned from a few trips to find my garden overgrown. The maintenance of which has slowed my writing, but that doesn’t bother me as long as I have soil beneath my fingernails. I hope the change in season has been a welcome one for you. Meanwhile, back to the work.*
