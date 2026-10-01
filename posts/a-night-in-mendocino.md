@@ -5,7 +5,7 @@ author: Nicholas Souza
 publication: TBH Press
 date: 2026-05-05
 source: https://tbhpress.substack.com/p/a-night-in-mendocino
-profile: waterline
+profile: tidewater
 ---
 
 To reclaim what would otherwise be lost forever is a noble pursuit.
